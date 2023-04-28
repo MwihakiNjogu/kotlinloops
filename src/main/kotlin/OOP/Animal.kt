@@ -1,0 +1,6 @@
+package OOP
+
+class Animal {
+
+}
+
